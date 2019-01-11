@@ -10,5 +10,6 @@ public class MyStart {
 
         ATypeName atn = new ATypeName();
         atn.sOut();
+        System.out.println(atn.storage("123456789"));
     }
 }

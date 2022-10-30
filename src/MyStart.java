@@ -22,7 +22,7 @@ public class MyStart {
         Integer a = Integer.valueOf(10);
         Integer z = 10;
 
-
+		System.out.println(atn.storage("123456789"));
         boolean bl = (s==a);
         System.out.println(bl);
     }
